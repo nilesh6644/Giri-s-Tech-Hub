@@ -318,8 +318,22 @@ button.btn.btn-primary, button.btn.btn-primary:hover, button.btn.btn-primary:foc
 	border-radius: 30px;
 	padding: 20px;
     box-shadow: 0px 0px 8px 0px;
-
-
+}
+.power:hover
+{
+    background-color: #2aaf80;
+}
+.power1{
+	width: 100%;
+	float: left;
+	background-color: #ffffff;
+	border-radius: 30px;
+	padding: 20px;
+    box-shadow: 0px 0px 8px 0px;
+}
+.power1:hover
+{
+    background-color: #2aaf80;
 }
 
 .icon{
@@ -462,6 +476,10 @@ button.btn.btn-primary, button.btn.btn-primary:hover, button.btn.btn-primary:foc
 	background-color: #ffffff;
 	border-radius: 20px;
     border: 2px solid #55b994;
+}
+.about_inner:hover
+{
+    background-color: #2ba879;
 }
 .dedicated{
 	width: 100%;
