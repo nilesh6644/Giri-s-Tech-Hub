@@ -1,1 +1,1 @@
-# Giri-s-Tech-Hub
+# Giris-Tech-Hub
